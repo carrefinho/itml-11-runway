@@ -1,0 +1,17 @@
+{
+  "name": "itml_runway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.8.5",
+    "pi-camera-connect": "^0.2.0",
+    "socket.io-client": "^2.3.0",
+    "yargs": "^14.2.0"
+  }
+}
